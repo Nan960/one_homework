@@ -34,17 +34,23 @@ public class IPersistenceTest {
      */
     @Test
     public void testSelect() throws Exception {
+        /*User user = new User();
+        user.setId(1);
+        user.setName("tom");
+        User byCondition = userDao.findByCondition(user);
+        System.out.println(byCondition);*/
         List<User> userList = userDao.findAll();
         for (User user : userList) {
             System.out.println(user);
         }
+
     }
 
     @Test
     public void testUpdate() throws Exception{
         User user = new User();
         user.setId(1);
-        user.setName("tom");
+        user.setName("tom1");
         int i = userDao.updateUser(user);
     }
 

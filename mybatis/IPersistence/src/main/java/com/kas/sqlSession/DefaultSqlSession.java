@@ -81,14 +81,18 @@ public class DefaultSqlSession implements SqlSession{
                 //2.参数params:args
                 // 获取被调用方法的返回值类型
                 Type genericReturnType = method.getGenericReturnType();
-                //判断是否进行了 泛型类型参数化
+                // 参数类型全包名称
+                String typeName = genericReturnType.getTypeName();
+                // 判断是否进行了 泛型类型参数化
                 if (genericReturnType instanceof ParameterizedType){
                     List<Object> objects = selectList(statementId, args);
                     return objects;
-                }else {
+                }else if (typeName.equals("java.lang.Integer")){
+                    // 判读是否执行了更新操作
                     int update = update(statementId, args);
                     return update;
                 }
+                return selectOne(statementId,args);
             }
         });
         return (T) proxyInstance;
