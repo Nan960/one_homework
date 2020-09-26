@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2cd1908-6d5d-48a3-9288-b2e978f2f19d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../.gitee/ISSUE_TEMPLATE.zh-CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gitee/PULL_REQUEST_TEMPLATE.zh-CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../README.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Spring笔记.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/SimpleSpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/dao/impl/JdbcAccountDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/factory/BeanFactoryUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/factory/ProxyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/pojo/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/pojo/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/service/TransferService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/service/impl/TransferServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/servlet/TransferServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/transaction/TransactionProcess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/utils/ConnectionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/utils/DruidUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/utils/JsonUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/java/com/lagou/edu/utils/TransactionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/resources/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/lagou-transfer/src/main/webapp/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/AttributeAccessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BaseBeanDefinitionImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BaseBeanDefinitionRegisterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BaseBeanFactoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BaseBeanGeneratorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BeanDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BeanDefinitionRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BeanGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BeanNameGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/BeanPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/DefaultBeanNameGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/FactoryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/SingletonBeanFactoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/SingletonBeanGeneratorImplImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Autowired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Bean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Configuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Import.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/ScanPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/annotation/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/config/AnnotationScanPackageConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/exception/BeanGeneratorException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/exception/IocException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/exception/NoSuchBeanDefinitionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/ioc/exception/NoSuchBeanException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/transaction/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/transaction/TransactionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/util/FileScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/util/ReflectionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/util/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/util/annotation/AliasFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/util/annotation/AnnotationConfigurationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/main/java/com/wjy/util/annotation/AnnotationUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/demo/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/demo/DemoInterface1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/demo/DemoInterface2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/ioc/BeanFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/ioc/ImportTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/ioc/annotation/ImportDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/ioc/annotation/ImportDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/ioc/demo/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/ioc/demo/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/transaction/DemoTransaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/transaction/TransactionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/util/FileScannerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/util/ReflectionUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/util/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/util/annotation/AnnotationUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code/simple-spring/src/test/java/com/wjy/util/annotation/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../解答题/spring循环依赖处理机制中的调用关系.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../验证资料/作业讲解.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hJTQtyxjLC6Srw1bTgACyVyz2a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../lagou-transfer" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.edu.annotation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run-war" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.Unnamed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2cd1908-6d5d-48a3-9288-b2e978f2f19d" name="Default Changelist" comment="" />
+      <created>1599728182413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599728182413</updated>
+      <workItem from="1599728186158" duration="105000" />
+      <workItem from="1599728708823" duration="1445000" />
+      <workItem from="1600337332670" duration="631000" />
+      <workItem from="1600390869565" duration="30000" />
+      <workItem from="1600737078648" duration="16432000" />
+      <workItem from="1600822224263" duration="11106000" />
+      <workItem from="1600854730316" duration="911000" />
+      <workItem from="1600865784967" duration="2612000" />
+      <workItem from="1600872395283" duration="811000" />
+      <workItem from="1600908194087" duration="1317000" />
+      <workItem from="1600909531762" duration="15000" />
+      <workItem from="1600909553262" duration="899000" />
+      <workItem from="1600910509854" duration="1784000" />
+      <workItem from="1601124113120" duration="382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="554" height="466" key="DebuggerActiveHint" timestamp="1600912009073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="554" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1600912009073" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600910245176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600910245176" />
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state width="1493" height="158" key="GridCell.Tab.1.bottom" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state width="1493" height="158" key="GridCell.Tab.1.center" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state width="1493" height="158" key="GridCell.Tab.1.left" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state width="1493" height="158" key="GridCell.Tab.1.right" timestamp="1601124464060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601124464060" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1600825102338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1600825102338" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1600737631007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600737631007" />
+    <state x="313" y="141" width="909" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600912198923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="313" y="141" width="909" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1600912198923" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600827868965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600827868965" />
+  </component>
+</project>
